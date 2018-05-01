@@ -8,20 +8,20 @@ layout: frontpage2
 header:
   image_fullwidth: you-can-delete-me-header.png
 widget1:
-  title: "Widget 1"
+  title: "research"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'r_heatmap_feature.png'
+  text: 'Researching in AHlab is one of the branches of our work'
 widget2:
-  title: "Widget 2"
+  title: "publications"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'https://www.webdesignerdepot.com/cdn-origin/uploads/visualization_tools/walrus.jpg
+  text: 'Through the years numerous publications from our lab has been published'
 widget3:
-  title: "Widget 3"
+  title: "lab"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'https://ah-lab.github.io/ah-lab2.github.io/images/visualizinginformationflowinscience.jpg'
+  text: 'In the Lab we believe in open knowledge and never use again wordpress'
 
 #
 # Use the call for action to show a button on the frontpage
