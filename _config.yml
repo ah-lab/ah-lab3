@@ -24,7 +24,7 @@ author: c
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ah-lab.github.io/ah-lab3/'
+url: 'https://ah-lab.github.io/ah-lab3'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
