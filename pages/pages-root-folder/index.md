@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "publications"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'https://www.webdesignerdepot.com/cdn-origin/uploads/visualization_tools/walrus.jpg
+  image: 'https://www.webdesignerdepot.com/cdn-origin/uploads/visualization_tools/walrus.jpg'
   text: 'Through the years numerous publications from our lab has been published'
 widget3:
   title: "lab"
