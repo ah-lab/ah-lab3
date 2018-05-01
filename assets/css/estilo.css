@@ -10,4 +10,5 @@ body{font-size:18px !important}
 #footer-content p, #footer-content li{font-size:1.1rem}
 @media only screen and (min-width: 64.063em) {.top-bar-section li:not(.has-form) a:not(.button) {background:black !important; color:white !important}}
 .top-bar .toggle-topbar.menu-icon a span::after {box-shadow: 0 0 0 1px white, 0 7px 0 1px white, 0 14px 0 1px white;}
+.top-bar .toggle-topbar.menu-icon a {color:white}
 @media only screen and (min-width: 64.063em){.top-bar-section .has-dropdown>a:after {border-color: rgba(255, 255, 255, 0.4) transparent transparent transparent;}}
