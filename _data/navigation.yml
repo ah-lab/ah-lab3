@@ -17,11 +17,11 @@
     url: "/team"
   - title: "institutions"
     url: "/institutions/"
-    dropdown:
-    - title: "MIT Center For Mindfulness"
-        url: "/chair/mit/"
-    - title: "Universidad Complutense de Madrid"
-        url: "/chair/ucm/"
+    #dropdown:
+    #- title: "MIT Center For Mindfulness"
+    #    url: "/chair/mit/"
+    #- title: "Universidad Complutense de Madrid"
+    #    url: "/chair/ucm/"
 
 
 - title: Chair 
