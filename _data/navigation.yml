@@ -1,38 +1,49 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: NirakaraLab 
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: Research
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+  - title: "themes"
+    url: "/themes/"
+  - title: "publications"
+    url: "/publications/"
+  - title: "team"
+    url: "/team"
+  - title: "institutions"
+    url: "/institutions/"
+    dropdown:
+    - title: "MIT Center For Mindfulness"
+        url: "/chair/mit/"
+    - title: "Universidad Complutense de Madrid"
+        url: "/chair/ucm/"
 
-- title: Blog
-  url: "/blog/"
+
+- title: Chair 
+  url: "/chair/"
+  side: left
+- title: Magazine
+  url: "/magazine/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Magazine Archive"
+    url: "/magazine/archive/"
 
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
 - title: "Contact"
   url: "/contact/"
