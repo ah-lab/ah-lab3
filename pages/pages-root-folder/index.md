@@ -10,7 +10,7 @@ header:
 widget1:
   title: "research"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'r_heatmap_feature.png'
+  image: '/images/r_heatmap_feature.png'
   text: 'Researching in AHlab is one of the branches of our work'
 widget2:
   title: "publications"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "lab"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'https://ah-lab.github.io/ah-lab2.github.io/images/visualizinginformationflowinscience.jpg'
+  image: 'images/visualizinginformationflowinscience.jpg'
   text: 'In the Lab we believe in open knowledge and never use again wordpress'
 
 #

@@ -1,8 +1,12 @@
-- menu_name: "Services"
+- menu_name: "doing"
 
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
+
+- name: "Legal"
+  url: "/legal.html"
+  title: "legal"
 
 - name: "RSS"
   url: "/feed.xml"
