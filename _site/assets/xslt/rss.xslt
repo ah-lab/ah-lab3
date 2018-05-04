@@ -17,13 +17,13 @@
   <script>
     WebFont.load({
       google: {
-        families: [ 'Crimson+Text::latin', 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+        families: [ 'Playfair+Display::latin', 'Crimson+Text::latin', 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
       }
     });
   </script>
 
   <noscript>
-    <link href='http://fonts.googleapis.com/css?family=Crimson+Text|Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display|Crimson+Text|Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
   </noscript>
 
   

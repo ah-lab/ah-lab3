@@ -7,7 +7,7 @@
 layout: frontpage2
 header:
   title: nirakaraLab
-  image_fullwidth: 11seung1-jumbo-v3.jpg
+#  image_fullwidth: 11seung1-jumbo-v3.jpg
 widget1:
   title: "research"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
