@@ -10,17 +10,17 @@ header:
 #  image_fullwidth: 11seung1-jumbo-v3.jpg
 widget1:
   title: "research"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'https://ah-lab.github.io/ah-lab3/research/'
   image: '/images/r_heatmap_feature.png'
   text: 'Researching in AHlab is one of the branches of our work'
 widget2:
   title: "publications"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'https://ah-lab.github.io/ah-lab3/publications/'
   image: 'https://www.webdesignerdepot.com/cdn-origin/uploads/visualization_tools/walrus.jpg'
   text: 'Through the years numerous publications from our lab has been published'
 widget3:
   title: "lab"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'https://ah-lab.github.io/ah-lab3/lab/'
   image: '/images/visualizinginformationflowinscience.jpg'
   text: 'In the Lab we believe in open knowledge and never use again wordpress'
 

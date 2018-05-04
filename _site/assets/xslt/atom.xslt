@@ -216,7 +216,7 @@
             
 
               <li class="has-dropdown">
-                <a href="#">Research</a>
+                <a href="http://localhost:4000/research/">Research</a>
 
                   <ul class="dropdown">
                     
@@ -233,7 +233,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/team">team</a></li>
+                      <li><a href="http://localhost:4000/team/">team</a></li>
                     
 
                       

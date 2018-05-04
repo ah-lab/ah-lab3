@@ -6,7 +6,7 @@
   side: left
 
 - title: Research
-  url: "#"
+  url: "/research/"
   side: left
   dropdown:
   - title: "themes"
@@ -14,7 +14,7 @@
   - title: "publications"
     url: "/publications/"
   - title: "team"
-    url: "/team"
+    url: "/team/"
   - title: "institutions"
     url: "/institutions/"
     #dropdown:
